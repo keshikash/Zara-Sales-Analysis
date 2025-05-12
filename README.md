@@ -22,6 +22,7 @@ The dataset used is the **Zara Sales Data** from Kaggle, available [here](https:
 git clone https://github.com/yourusername/product-data-analysis.git
 cd product-data-analysis
 pip install -r requirements.txt
+```
 
 ## License
 This project is licensed under the MIT License.
