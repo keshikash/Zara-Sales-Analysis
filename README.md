@@ -1,6 +1,6 @@
 # Product Data Analysis
 
-This project involves **Exploratory Data Analysis (EDA)**, **data cleaning**, and **visualization** to uncover insights from product sales data. Visuals are created using **seaborn** and **matplotlib**, while interactive dashboards are built in **Power BI**.
+This project involves **Exploratory Data Analysis (EDA)**, **data cleaning**, and **visualization** to uncover insights from product sales data. Visuals are created using **seaborn** and **matplotlib**, while interactive dashboards are built in **Power BI** and **Tableau**.
 
 The dataset used is the **Zara Sales Data** from Kaggle, available [here](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara).
 
